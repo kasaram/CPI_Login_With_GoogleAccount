@@ -1,0 +1,24 @@
+body{
+    font-family: 'Roboto Mono', monospace;
+    background-color: beige;
+    background-image: url(../img/img.jpg);
+    background-size: cover;
+}
+
+from {
+    margin-bottom: 20px;
+}
+input{
+    margin-bottom: 20px;
+    max-width: 100%;
+    width: 300px;
+    height: 35px;
+}
+
+img {
+    max-width: 100%;
+    width: 80px;
+    max-height: 100%;
+    height: 90px;
+    margin-bottom: 15px;
+}
